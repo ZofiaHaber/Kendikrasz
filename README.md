@@ -1,0 +1,2 @@
+# Kendikrasz
+Projekt z Matlaba
